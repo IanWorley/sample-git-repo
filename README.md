@@ -60,6 +60,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
+The purpose of this Git repository is to educate and instruct individuals on how to contribute to Github.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
