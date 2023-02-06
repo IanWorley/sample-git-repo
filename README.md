@@ -84,8 +84,7 @@ To get a local copy up and running follow these simple example steps.
 
 ### Installation
 
-1. Get an Github account
-2. Clone the repo or use github desktop to clone the repo
+1. Clone the repo or use github desktop to clone the repo
    ```sh
    git clone https://github.com/IanWorley/sample-git-repo.git
    ```
